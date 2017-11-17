@@ -12,6 +12,7 @@ public class ExCOD1Av {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo, hola exame");
+        int nota;
     }
     
 }
