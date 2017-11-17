@@ -13,7 +13,7 @@ public class ExCOD1Av {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
         
-        System.out.println("Benvido ó exame, preparese.");
+        System.out.println("Benvido ó exame, preparado.");
     }
     
 }
